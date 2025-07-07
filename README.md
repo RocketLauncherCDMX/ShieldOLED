@@ -14,3 +14,9 @@ Este shield es compatible con Arduino **UNO** y **MEGA**, y en teoría, cualquie
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cebdb68c-9965-4e3e-93d1-0c78c1f04b5a" alt="Shield OLED 128x64" width="400"/>
 </p>
+
+El Joystickk es digital, de 5 posiciones, ideal para desplazarse por menús, seleccionar opciones, activar o desactivar actuadores, etc.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd0dee22-d6b6-414b-9162-9a5238ce0fe9" alt="Joystick digital de 5 posiciones" width="200"/>
+</p>
