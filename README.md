@@ -16,7 +16,10 @@ Este shield es compatible con Arduino **UNO** y **MEGA**, y en teoría, cualquie
 </p>
 
 El Joystickk es digital, de 5 posiciones, ideal para desplazarse por menús, seleccionar opciones, activar o desactivar actuadores, etc.
+Los botones están en disposición de cruz, emulando un sencillo control de 8 bits.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bd0dee22-d6b6-414b-9162-9a5238ce0fe9" alt="Joystick digital de 5 posiciones" width="600"/>
-</p>
+Este shield es ideal para aprender conceptos básicos sobre gráficos, hacer interfaces sencillas para tus programas, modificar variables sin tener que compilar y programar cada vez, mostrar imágenes monocromáticas de baja resolución, y un largo etc.
+
+Tanto la pantalla como el Joystick y los botones, funcionan por I2C, por lo que no será necesario que ocupes las entradas digitales o analógicas de tu Arduino.
+
+La pantalla se encuentra en la dirección **I2C 0x3C** y los botones y el Joystick en la dirección **I2C 0x02**
