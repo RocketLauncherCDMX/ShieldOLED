@@ -18,5 +18,5 @@ Este shield es compatible con Arduino **UNO** y **MEGA**, y en teoría, cualquie
 El Joystickk es digital, de 5 posiciones, ideal para desplazarse por menús, seleccionar opciones, activar o desactivar actuadores, etc.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bd0dee22-d6b6-414b-9162-9a5238ce0fe9" alt="Joystick digital de 5 posiciones" width="200"/>
+  <img src="https://github.com/user-attachments/assets/bd0dee22-d6b6-414b-9162-9a5238ce0fe9" alt="Joystick digital de 5 posiciones" width="600"/>
 </p>
