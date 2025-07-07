@@ -36,3 +36,8 @@ Y si tienes planeado utilizar formas geométricas como líneas, círculos y rect
 ```bash 
 https://github.com/adafruit/Adafruit-GFX-Library
 ```
+
+<br>
+
+Por otro lado, la bibliteca para el funcionamiento de los botones y Joystick, la encontrarás en esta misma página, o en el siguiente enlace:
+
